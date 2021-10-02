@@ -1,2 +1,2 @@
 # DIlo-incrementalfirebase
- 
+incremental databaselocal
